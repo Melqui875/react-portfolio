@@ -11,8 +11,8 @@ export function ProjectCard({ project }) {
         "flex flex-col justify-center items-center gap-4 p-8 h-full rounded-xl animate-scroll shadow-xl"
       }
     >
-      <header className="flex items-center gap-2 justify-between w-full">
-        <h3 className={`text-2xl font-semibold text-black dark:text-white`}>
+      <header className="flex items-center gap-2 justify-between w-full m-auto">
+        <h3 className={`text-2xl font-semibold text-black dark:text-white `}>
           {project.name}
         </h3>
       </header>

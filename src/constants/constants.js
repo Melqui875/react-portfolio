@@ -42,7 +42,7 @@ export const projects = [
     id: 1,
     name: "Gift Seacrh",
     description:
-      "Desarrollo de interfaz manipulando API de GIPHY, esta app se llevó a cabo para la práctica front-end con React",
+      "Desarrollo de interfaz manipulando API de GIPHY, esta app se llevó a cabo para la práctica front-end con React.",
     img: {
       src: gift,
       alt: "GiftSearchApp",
@@ -56,7 +56,7 @@ export const projects = [
     id: 2,
     name: "Sistema de control contable",
     description:
-      "Desarrollo full-stack de todo un sistema de control contable, a la medida, este proyecto se llevó a cabo en mis años de trabajo para la empresa AIDCLIP",
+      "Desarrollo full-stack de todo un sistema de control contable, a la medida, este proyecto se llevó a cabo en mis años de trabajo para la empresa AIDCLIP.",
     img: {
       src: appContable,
       alt: "AppContable",
